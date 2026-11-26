@@ -1,0 +1,3 @@
+- insert:
+    - id: subagent-window
+      name: '@local/subagent-window'
