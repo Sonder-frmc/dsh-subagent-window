@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Left-sidebar subagent panel with in-app floating conversation windows for the DSH Web client.",
+  "description": "Floats a DSH subagent's conversation in a draggable in-app window, so you can keep the main conversation visible while reading, messaging, confirming permissions or stopping that subagent.",
   "exports": {
     ".": "./lib/index.js",
     "./client": "./lib/client.js",
@@ -29,5 +29,18 @@
         "@deepseek-ai/dsh-client-ui-conversation"
       ]
     }
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "subagent",
+    "floating-window"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Sonder-frmc/dsh-subagent-window#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonder-frmc/dsh-subagent-window.git"
   }
 }
