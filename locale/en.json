@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Subagent Windows",
+    "description": "Adds a Subagents card to the right-sidebar Start page and Open/Close floating-window actions to conversation headers and sidebar tab context menus."
+  }
+}
